@@ -1,0 +1,8 @@
+## Folder Structure
+
+- `notebooks/` — Contains all Jupyter Notebooks for this project.
+  - `Project_1_IMDB_Top1000.ipynb` — Public version using Kaggle dataset
+  - `Project_1_Basic_TripleTen.ipynb` — TripleTen-inspired cleaned version
+- `../../datasets/` — Shared dataset folder used across all projects
+
+Organizing notebooks this way keeps the project modular and easy to expand in the future.

@@ -28,20 +28,6 @@ The assumption is that popularity and quality are directly related - this projec
 - Python (`pandas`, `matplotlib`)
 - Jupyter Notebook
 
-## Structure 
-The `requirements.txt` file lists all Python libraries needed to run this project.  
-It can be used to install dependencies with:
-
-```bash
-pip install -r requirements.txt
-
-project_1_basic_python/
-├── notebooks/
-│   ├── Project_1_Basic_TripleTen.ipynb
-│   └── Project_1_IMDB_Top1000.ipynb
-├── requirements.txt   # dependencies used in this project
-├── README.md
-
 ## Key Insights
 - A **moderate correlation** (r=0.45) was observed between ratings and vote counts.
 - Some highly-rated shows/movies had few votes - popularity and quality don't always align.
@@ -58,3 +44,18 @@ For data paths and details, see:  '/data/README.md'
 - Normalize messy column names programmiatically
 - Use scatterplots, `corr()`, and log scales for skewed data
 - Test and interpret assumptions with EDA 
+
+## Structure 
+The `requirements.txt` file lists all Python libraries needed to run this project.  
+It can be used to install dependencies with:
+
+```bash
+pip install -r requirements.txt
+
+project_1_basic_python/
+├── notebooks/
+│   ├── Project_1_Basic_TripleTen.ipynb
+│   └── Project_1_IMDB_Top1000.ipynb
+├── requirements.txt   # dependencies used in this project
+├── README.md
+

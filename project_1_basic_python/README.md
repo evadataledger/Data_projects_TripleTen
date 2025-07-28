@@ -1,6 +1,6 @@
 # Project 1: Basic Python - IMDb Golden Age Analysis
 
-## Ojbective 
+## Objective 
 Analyze whether highly-rated TV shows from the "Golden Age of Television": (1999-Present) also received the most IMDb votes. 
 
 ## Tools Used

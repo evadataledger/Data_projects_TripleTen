@@ -15,7 +15,7 @@ Originally developed during the **TripleTen Data Science Bootcamp**, this projec
 - Assumption: Highly-rated **TV shows** also receive the most votes
 - Pubic IMDb dataset is used to simulate the original closed dataset
 
-### `Project_`_IMDB_Top1000.ipynb`
+### `Project_IMDB_Top1000.ipynb`
 - Independent extension using the **IMDb Top 1000** dataset from Kaggle
 - Focuses on movies from 1999 onward
 - Broader EDA with correlation analysis, visualizations, and insights

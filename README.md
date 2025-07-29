@@ -22,7 +22,7 @@ This repository serves as a **capstone collection** of my TripleTen journey - fr
 
 | # | Project | Topic Area | Key Techniques |
 |---|---------|------------|----------------|
-| **1**   | [Project 1: Basic Python - IMDb Golden Age Analysis](./project_1_basic_python/) | Data Cleaning & EDA | pandas, plots |
+| **1**   | [Project 1: Basic Python](./project_1_basic_python/) | Data Cleaning & EDA | pandas, plots |
 | **2**   | [Project 2: Gold Recovery Predictor](./gold_recovery_predictor/) | Regression, Feature Engineering | sMAPE, XGBoost |
 | **3**   | [Project 3: Insurance Customer Segmentation](./insurance_segmentation/) | Clustering, Classification | RandomForest, hashing |
 | **4**   | [Project 4: Car Price Prediction](./car_price_prediction/) | Regression, Tuning | RandomizedSearchCV |

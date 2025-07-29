@@ -33,6 +33,7 @@ Surf appears more cost-efficient for light users, but Ultimate offers stability 
 
 ## Folder Structure
 
+```bash
 project_3_statistical_data_analysis/
 ├── notebooks/
 │   └── project_3_statistical_data_analysis_(clean).ipynb

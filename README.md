@@ -23,7 +23,7 @@ This repository serves as a **capstone collection** of my TripleTen journey - fr
 | # | Project | Topic Area | Key Techniques |
 |---|---------|------------|----------------|
 | **1**   | [Project 1: Basic Python](./project_1_basic_python/) | Data Cleaning & EDA | pandas, plots |
-| **2**   | [Project 2: Gold Recovery Predictor](./gold_recovery_predictor/) | Regression, Feature Engineering | sMAPE, XGBoost |
+| **2**   | [Project 2: Customer Churn EDA](./project_2_eda_customer_churn/)| Exploratory Data Analysis | Python (`pandas`, `matplotlib`, `seaborn`) |
 | **3**   | [Project 3: Insurance Customer Segmentation](./insurance_segmentation/) | Clustering, Classification | RandomForest, hashing |
 | **4**   | [Project 4: Car Price Prediction](./car_price_prediction/) | Regression, Tuning | RandomizedSearchCV |
 | **5**   | [Project 5: IMDB Review Classifier](./imdb_review_classifier/) | NLP, Sentiment Analysis | TF-IDF, Logistic Regression |

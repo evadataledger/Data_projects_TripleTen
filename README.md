@@ -27,8 +27,8 @@ This repository serves as a **capstone collection** of my TripleTen journey - fr
 | **3**   | [Project 3: Megaline Statistical Analysis](./project_3_statistical_data_analysis/) | Hypothesis Testing, Revenue Analysis | pandas, scipy, seaborn |
 | **4**   | [Project 4: Video Game Sales Forecasting](./project_4_video_game_sales/) | Data Cleaning, EDA, Hypothesis Testing | pandas, seaborn, scipy |
 | **5**   | [Project 5: SQL Ride-Share Analysis](./project_5_sql_data_collection/) | SQL, Hypothesis Testing, Data Cleaning | pandas, seaborn, SQL |
-| **6**   | |||
-| **7**   | |||
+| **6**   | [Project 6: ML – Mobile Plan Prediction](./project_6_machine_learning_megaline/) | Classification, Model Tuning, Accuracy Eval | scikit-learn |
+| **7**   | [Project 7: Supervised Learning – Beta Bank](./project_7_supervised_learning_betabank/) | Classification, Imbalanced Classes, F1, AUC-ROC | scikit-learn |
 | **8**   | |||
 | **9**   | |||
 | **10**  | |||

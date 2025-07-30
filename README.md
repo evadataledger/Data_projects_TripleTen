@@ -30,7 +30,7 @@ This repository serves as a **capstone collection** of my TripleTen journey - fr
 | **6**   | [Project 6: ML – Mobile Plan Prediction](./project_6_machine_learning_megaline/) | Classification, Model Tuning, Accuracy Eval | scikit-learn |
 | **7**   | [Project 7: Supervised Learning – Beta Bank](./project_7_supervised_learning_betabank/) | Classification, Imbalanced Classes, F1, AUC-ROC | scikit-learn |
 | **8**   | [Project 8: ML in Business – OilyGiant](./project_8_machine_learning_oilygiant/) | Linear Regression, Profit Forecasting, Risk Evaluation | scikit-learn, bootstrap |
-| **9**   | |||
+| **9**   | [Project 9: Gold Recovery Predictor](./project_9_gold_recovery/) | Regression, Feature Engineering, Model Stacking | scikit-learn, RandomForest, XGBoost |
 | **10**  | |||
 | **11**  | |||
 | **12**  | |||

@@ -29,7 +29,7 @@ This repository serves as a **capstone collection** of my TripleTen journey - fr
 | **5**   | [Project 5: SQL Ride-Share Analysis](./project_5_sql_data_collection/) | SQL, Hypothesis Testing, Data Cleaning | pandas, seaborn, SQL |
 | **6**   | [Project 6: ML – Mobile Plan Prediction](./project_6_machine_learning_megaline/) | Classification, Model Tuning, Accuracy Eval | scikit-learn |
 | **7**   | [Project 7: Supervised Learning – Beta Bank](./project_7_supervised_learning_betabank/) | Classification, Imbalanced Classes, F1, AUC-ROC | scikit-learn |
-| **8**   | |||
+| **8**   | [Project 8: ML in Business – OilyGiant](./project_8_machine_learning_oilygiant/) | Linear Regression, Profit Forecasting, Risk Evaluation | scikit-learn, bootstrap |
 | **9**   | |||
 | **10**  | |||
 | **11**  | |||

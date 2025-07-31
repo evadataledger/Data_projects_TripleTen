@@ -32,7 +32,7 @@ This repository serves as a **capstone collection** of my TripleTen journey - fr
 | **8**   | [Project 8: ML in Business – OilyGiant](./project_8_machine_learning_oilygiant/) | Linear Regression, Profit Forecasting, Risk Evaluation | scikit-learn, bootstrap |
 | **9**   | [Project 9: Gold Recovery Predictor](./project_9_gold_recovery/) | Regression, Feature Engineering, Model Stacking | scikit-learn, RandomForest, XGBoost |
 | **10**  | [Project 10: Linear Algebra – Sure Tomorrow Insurance](./project_10_linear_algebra/) | Customer Segmentation, Classification, Obfuscation | numpy, pandas, scikit-learn |
-| **11**  | |||
+| **11**  | [Project 11: Rusty Bargain – Price Prediction](./project_11_price_prediction/) | Regression, Model Comparison, RMSE Evaluation | scikit-learn, LightGBM |
 | **12**  | |||
 
 ## What You Will Find Here

@@ -33,7 +33,10 @@ This repository serves as a **capstone collection** of my TripleTen journey - fr
 | **9**   | [Project 9: Gold Recovery Predictor](./project_9_gold_recovery/) | Regression, Feature Engineering, Model Stacking | scikit-learn, RandomForest, XGBoost |
 | **10**  | [Project 10: Linear Algebra – Sure Tomorrow Insurance](./project_10_linear_algebra/) | Customer Segmentation, Classification, Obfuscation | numpy, pandas, scikit-learn |
 | **11**  | [Project 11: Rusty Bargain – Price Prediction](./project_11_price_prediction/) | Regression, Model Comparison, RMSE Evaluation | scikit-learn, LightGBM |
-| **12**  | |||
+| **12**  | [Project 12: Time Series – Sweet Lift Taxi Company](./project_12_time_series/) | Time Series Forecasting, Demand Prediction | Lag Features, Rolling Means, RMSE Evaluation |
+| **13**  |  |  |  |
+| **14**  |  |  |  |
+| **15**  |  |  |  |
 
 ## What You Will Find Here
 

@@ -36,7 +36,7 @@ This repository serves as a **capstone collection** of my TripleTen journey - fr
 | **12**  | [Project 12: Time Series – Sweet Lift Taxi Company](./project_12_time_series/) | Time Series Forecasting, Demand Prediction | Lag Features, Rolling Means, RMSE Evaluation |
 | **13**  | [Project 13: ML for Texts – IMDB Review Classifier](./project_13_text_classification/) | NLP, Sentiment Analysis | TF-IDF, Logistic Regression, F1 Score, spaCy |
 | **14**  | [Project 14: Computer Vision – Good Seed Age Verification](./project_14_computer_vision/) | Image Classification & Regression | CNN, ResNet50, Keras, MAE, Image Preprocessing |
-| **15**  |  |  |  |
+| **15**  | [Project 15: Churn Prediction – Interconnect Telecom](./project_15_churn_prediction/) | Customer Retention, Classification | Gradient Boosting, AUC-ROC, Feature Importance |
 
 ## What You Will Find Here
 

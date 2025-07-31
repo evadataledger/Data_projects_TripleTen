@@ -51,7 +51,7 @@ This repository serves as a **capstone collection** of my TripleTen journey - fr
 
 ## How to Use
 Close the repository or explore each folder individually to view project notebooks, visuals, and results. 
-Some datasets are proprietary and excluded - see each project's `/data/README.med` for details.
+Some datasets are proprietary and excluded - see each project's `/data/README.md` for details.
 
 ## Contact
 If you're a recruiter, collaborator, or curious learner - feel free to reach out! 

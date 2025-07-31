@@ -58,6 +58,12 @@ Portfolio Site:
   GitHub: github.com/evadataledger
   Notion: 
 
+### Large Dataset Notice
+
+A few projects use a dataset that exceeds GitHub's 100MB file limit.
+To access the full dataset:
+- Contact the project owner for access instructions.
+
 ---
 *Last updated: July 2025*
 

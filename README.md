@@ -1,78 +1,87 @@
-# Data_projects_TripleTen
-A curated collection of data science and machine learning project completed during the TripleTen Data Science Bootcamp. Each project demonstrates growth in technical skills, business insight, and data storytelling. 
+# Data Projects – TripleTen Capstone Portfolio
 
-Welcome to my portfolio of data science projects completed during the TripleTen Data Science Pgogram (https://tripleten.com/). Each project showcases real-world business scenarios solved using Pything, machine learning, and data analysis. 
+A curated collection of **15 end-to-end data science and machine learning projects** completed during the [TripleTen Data Science Bootcamp](https://tripleten.com/). Each project showcases **real-world business applications**, evolving technical skills, and refined data storytelling.
 
 ## About This Repository
 
-This repository serves as a **capstone collection** of my TripleTen journey - from exploratory analysis to predictive modeling. It reflects both technical growth and the ability to derive insights from complex data. 
+This repository serves as a **capstone showcase** of my TripleTen journey — from exploratory analysis to advanced modeling. It reflects my growth in data analytics, statistical reasoning, and model interpretation across multiple industries.
+
+---
 
 ### Skills Demonstrated
-- Python & pandas for data cleaning and analysis.
-- Scikit-learn & XGBoost for modeling.
-- Data Visualization with Matplotlib & Seaborn.
-- Business problem framing & interpretation.
-- NLP, computer vision, and time series forecasting.
-- Model evaluation using AUc-ROC, RMSE, sMAPE.
+
+- Python & `pandas` for data cleaning and analysis
+- `scikit-learn`, `XGBoost`, `LightGBM` for modeling
+- Data visualization with `matplotlib`, `seaborn`, `plotly`
+- SQL for data collection and querying
+- Forecasting & hypothesis testing
+- NLP (spaCy, TF-IDF), computer vision (CNN), time series forecasting
+- Model evaluation with `AUC-ROC`, `RMSE`, `MAE`, `F1`, and `sMAPE`
 
 ---
 
 ## Projects Included
-## 📂 Projects Included
 
 | # | Project | Topic Area | Key Techniques |
 |---|---------|------------|----------------|
 | **1**   | [Project 1: Basic Python](./project_1_basic_python/) | Data Cleaning & EDA | pandas, plots |
-| **2**   | [Project 2: Customer Churn EDA](./project_2_eda_customer_churn/)| Exploratory Data Analysis, Correlation | Python (`pandas`, `matplotlib`, `seaborn`) |
-| **3**   | [Project 3: Megaline Statistical Analysis](./project_3_statistical_data_analysis/) | Hypothesis Testing, Revenue Analysis | pandas, scipy, seaborn |
-| **4**   | [Project 4: Video Game Sales Forecasting](./project_4_video_game_sales/) | Data Cleaning, EDA, Hypothesis Testing | pandas, seaborn, scipy |
+| **2**   | [Project 2: Customer Churn EDA](./project_2_eda_customer_churn/)| Exploratory Data Analysis, Correlation | pandas, matplotlib, seaborn |
+| **3**   | [Project 3: Megaline Statistical Analysis](./project_3_statistical_data_analysis/) | Hypothesis Testing, Revenue Analysis | pandas, scipy |
+| **4**   | [Project 4: Video Game Sales Forecasting](./project_4_video_game_sales/) | Data Cleaning, EDA, Hypothesis Testing | pandas, scipy, seaborn |
 | **5**   | [Project 5: SQL Ride-Share Analysis](./project_5_sql_data_collection/) | SQL, Hypothesis Testing, Data Cleaning | pandas, seaborn, SQL |
-| **6**   | [Project 6: ML – Mobile Plan Prediction](./project_6_machine_learning_megaline/) | Classification, Model Tuning, Accuracy Eval | scikit-learn |
-| **7**   | [Project 7: Supervised Learning – Beta Bank](./project_7_supervised_learning_betabank/) | Classification, Imbalanced Classes, F1, AUC-ROC | scikit-learn |
-| **8**   | [Project 8: ML in Business – OilyGiant](./project_8_machine_learning_oilygiant/) | Linear Regression, Profit Forecasting, Risk Evaluation | scikit-learn, bootstrap |
-| **9**   | [Project 9: Gold Recovery Predictor](./project_9_gold_recovery/) | Regression, Feature Engineering, Model Stacking | scikit-learn, RandomForest, XGBoost |
-| **10**  | [Project 10: Linear Algebra – Sure Tomorrow Insurance](./project_10_linear_algebra/) | Customer Segmentation, Classification, Obfuscation | numpy, pandas, scikit-learn |
-| **11**  | [Project 11: Rusty Bargain – Price Prediction](./project_11_price_prediction/) | Regression, Model Comparison, RMSE Evaluation | scikit-learn, LightGBM |
-| **12**  | [Project 12: Time Series – Sweet Lift Taxi Company](./project_12_time_series/) | Time Series Forecasting, Demand Prediction | Lag Features, Rolling Means, RMSE Evaluation |
-| **13**  | [Project 13: ML for Texts – IMDB Review Classifier](./project_13_text_classification/) | NLP, Sentiment Analysis | TF-IDF, Logistic Regression, F1 Score, spaCy |
-| **14**  | [Project 14: Computer Vision – Good Seed Age Verification](./project_14_computer_vision/) | Image Classification & Regression | CNN, ResNet50, Keras, MAE, Image Preprocessing |
-| **15**  | [Project 15: Churn Prediction – Interconnect Telecom](./project_15_churn_prediction/) | Customer Retention, Classification | Gradient Boosting, AUC-ROC, Feature Importance |
+| **6**   | [Project 6: ML – Mobile Plan Prediction](./project_6_machine_learning_megaline/) | Classification, Model Tuning | scikit-learn |
+| **7**   | [Project 7: Supervised Learning – Beta Bank](./project_7_supervised_learning_betabank/) | Classification, Imbalanced Classes | scikit-learn, AUC-ROC |
+| **8**   | [Project 8: ML in Business – OilyGiant](./project_8_machine_learning_oilygiant/) | Linear Regression, Risk Evaluation | scikit-learn, bootstrap |
+| **9**   | [Project 9: Gold Recovery Predictor](./project_9_gold_recovery/) | Regression, Feature Engineering, Model Stacking | scikit-learn, XGBoost, RandomForest |
+| **10**  | [Project 10: Linear Algebra – Sure Tomorrow](./project_10_linear_algebra/) | Customer Segmentation, Obfuscation | numpy, scikit-learn |
+| **11**  | [Project 11: Rusty Bargain – Price Prediction](./project_11_price_prediction/) | Regression, RMSE Comparison | scikit-learn, LightGBM |
+| **12**  | [Project 12: Time Series – Sweet Lift Taxi](./project_12_time_series/) | Forecasting, Demand Analysis | Rolling Means, Lag Features |
+| **13**  | [Project 13: ML for Texts – IMDB Reviews](./project_13_text_classification/) | NLP, Sentiment Analysis | TF-IDF, spaCy, Logistic Regression |
+| **14**  | [Project 14: Computer Vision – Age Verification](./project_14_computer_vision/) | Image Regression | ResNet50, Keras, MAE |
+| **15**  | [Project 15: Churn Prediction – Interconnect](./project_15_churn_prediction/) | Classification, Customer Retention | Gradient Boosting, AUC-ROC |
 
-## What You Will Find Here
+---
 
-- Clean and organized Jupyter Notebooks
-- Project folders with clear structure
-- Each Project includes:
-  - Overview and business context
-  - Step-by-Step solution
-  - Key results and insights
-  - Future recommendations
-  - Clean code with no reviewer comments
+## What You’ll Find
+
+- Clean, organized **Jupyter Notebooks**
+- Modular project directories
+- Each project includes:
+  - **Overview & Business Context**
+  - **Step-by-step Workflow**
+  - **Key Results & Visualizations**
+  - **Business Insights & Recommendations**
+  - **Clean Code – No Reviewer Comments**
+
+---
 
 ## How to Use
-Close the repository or explore each folder individually to view project notebooks, visuals, and results. 
-Some datasets are proprietary and excluded - see each project's `/data/README.md` for details.
 
-## Contact
-If you're a recruiter, collaborator, or curious learner - feel free to reach out! 
-Email: EEB.Brown@Outlook.com
-LinkedIn: linkedin.com/in/evadataledger
-Portfolio Site: 
-  GitHub: github.com/evadataledger
-  Notion: 
+- Clone the repository, or explore each folder to view notebooks and results.
+- Some large datasets are not included. Refer to each project’s `/data/README.md` for context or licensing notes.
 
-### Large Dataset Notice
+### Dataset Access Note
 
-A few projects use a dataset that exceeds GitHub's 100MB file limit.
-To access the full dataset:
-- Contact the project owner for access instructions.
+Some datasets exceed GitHub’s 100MB file size limit.  
+If needed, contact me to request data access.
+
+---
+
+## Contact Me
+
+Let’s connect!  
+Email: [EEB.Brown@Outlook.com](mailto:EEB.Brown@Outlook.com)  
+LinkedIn: [linkedin.com/in/evadataledger](https://linkedin.com/in/evadataledger)  
+GitHub: [github.com/evadataledger](https://github.com/evadataledger)  
+Notion: *(upon request)*
+
+---
+
+### Considering a Data Science Bootcamp?
+
+If you're curious about the program that helped build this portfolio, I’m happy to share my experience with **TripleTen**.
+
+*P.S. If you decide to apply, feel free to mention my referral — we both benefit!*
 
 ---
 *Last updated: July 2025*
-
-
-
-
-
-
-
